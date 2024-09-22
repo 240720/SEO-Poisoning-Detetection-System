@@ -16,7 +16,6 @@ Use the search bar on the menu page to detect SEO poisoning by entering a search
 View results categorized as "Safe" or "Poisoned," with detailed information on keyword frequency, hidden text, and redirects.
 Submit feedback through the feedback form and review past feedback submissions.
 ![Screenshot 2024-07-27 221645](https://github.com/user-attachments/assets/3659a4d2-d6ed-4647-a639-9a871c41c799)
-![Screenshot 2024-07-27 221701](https://github.com/user-attachments/assets/7fd7f1e5-f0f8-473e-bd58-b2753175f481)
 ![Screenshot 2024-07-27 221717](https://github.com/user-attachments/assets/333787cf-56a1-452d-9c0e-3b6e84334b39)
 ![Screenshot 2024-07-27 221701](https://github.com/user-attachments/assets/dac37430-f757-4e8d-8ac0-3e89fef023a3)
 ![Screenshot 2024-07-27 223531](https://github.com/user-attachments/assets/8b132684-4abb-4a19-9cb5-1d7360631ed6)
